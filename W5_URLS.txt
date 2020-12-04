@@ -1,0 +1,31 @@
+[1] http://www.forensicswiki.org/wiki/File_Format_Identification
+[FILE] http://linux.about.com/library/cmd/blcmdl1_file.htm 
+[MCC-MNC LIST] http://en.wikipedia.org/wiki/Mobile_country_code 
+[PANOPTYKON RETENCJA] http://panoptykon.org/wiadomosc/retencja-danych-w-pytaniach-i-odpowiedziach 
+[OPEN SSID BROADCAST VULN] https://www.os3.nl/_media/2012-2013/courses/ssn/open_wifi_ssid_broadcast_vulnerability.pdf 
+[CHEEKY4N6MONKEY] 
+http://cheeky4n6monkey.blogspot.com/2013/02/creating-perl-script-to-retrieve.html 
+[REVERSE ENGIN SQLITE] http://az4n6.blogspot.com/2013/02/finding-and-reverse-engineering-deleted_1865.html
+[OXYGEN SQLITE VIEWER] http://www.oxygen-forensic.com/en/features/analyst/data-viewers/sqlite-viewer
+[SQLITE] https://mobileforensics.wordpress.com/category/sqlite/
+[ANDROID FILE STRUCTURE] http://www.all-things-android.com/content/understanding-android-file-hierarchy 
+[FORWARD LOCK] https://groups.google.com/forum/#!msg/android-security-discuss/0CTABw1-t8M/kvCBJUwAN6kJ 
+[TELEKOPALNIA] http://telefoniczna-kopalnia.panoptykon.org/
+[LIME FORENSICS] https://code.google.com/p/volatility/wiki/AndroidMemoryForensics 
+[iphone-keyboard-cache] http://www.securitylearn.net/tag/iphone-keyboard-cache/
+[GEOTAGGING] http://www.surfaces.co.il/smile-youre-on-candid-gps/ 
+[ANDROID MALWARE ANALYSIS] http://resources.infosecinstitute.com/android-malware-analysis/ 
+[TELEKOPALNIA] http://telefoniczna-kopalnia.panoptykon.org/ 
+[iOS full ls] https://wikileaks.org/ciav7p1/cms/files/full_ls.txt
+[1] http://en.wikipedia.org/wiki/File:World_Wide_Smartphone_Sales.png, Wikipedia, 23.01.2014
+[Does Google know all the WiFi passwords in the world] https://niebezpiecznik.pl/post/google-zna-wszystkie-hasla-do-sieci-wi-fi-na-swiecie/
+[3 sposoby FBI na shackowanie zablokowanego iPhone'a] https://niebezpiecznik.pl/post/3-sposoby-fbi-na-zhackowanie-zablokowanego-iphona/
+[PRAWO_TELEKOMUNIKACYJNE] https://www.uokik.gov.pl/download.php?id=533
+[FORENSICTOOLS_RETENCJA] https://forensictools.pl/retencja-danych-telekomunikacyjnych/
+[OPERATEL_RETENCJA] http://www.operatel.pl/index.php/2015/12/18/obowiazek-operatora-przechowywanie-i-udostepnianie-retencji-danych/
+[TELEPOLIS_DYREKTYWA_RETENCYJNA] https://www.telepolis.pl/wiadomosci/prawo-finanse-statystyki/trybunal-sprawiedliwosci-ue-dyrektywa-retencyjna-godzi-w-prywatnosc
+[RPO_DYREKTYWA_RETENCYJNA] https://www.rpo.gov.pl/sites/default/files/Wyst%C4%85pienie%20do%20Minister%20Cyfryzacji%20w%20sprawie%20przepis%C3%B3w%20ustawy%20Prawo%20telekomunikacyjne%20w%20zwi%C4%85zku%20z%20wyrokiem%20TSUE%20dotycz%C4%85cym%20retencji%20danych.pdf
+[PANOPTYKON_ZAPYTANIA] https://panoptykon.org/wiadomosc/dane-telekomunikacyjne-karuzela-liczb-trwa-problem-nadal-tkwi-w-zlym-prawie
+[PANOPTYKON_SLUZBY_2019] https://panoptykon.org/wiadomosc/sluzby-coraz-bardziej-interesuja-sie-billingami
+[GOOGLE_WIE_GDZIE_JESTES] https://niebezpiecznik.pl/post/google-wie-gdzie-jestes-i-gdzie-byles-i-dzieli-sie-tym-z-policja/
+[Pobór mocy a lokalizacja] https://niebezpiecznik.pl/post/telefon-komorkowy-moze-cie-zlokalizowac-przez-analize-poboru-mocy/

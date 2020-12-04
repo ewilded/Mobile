@@ -1,0 +1,41 @@
+[SMARTCARD] http://en.wikipedia.org/wiki/Smart_card
+[SMARTCARD2] http://www.smartcardalliance.org/pages/smart-cards-intro-primer
+[SMARTCARD3] http://www.smartcardalliance.org/pages/smart-cards-intro-standards
+[SMARTCARD4] http://www.tldp.org/HOWTO/Smart-Card-HOWTO/classification.html
+[SMARTCARD5] http://www.cardwerk.com/smartcards/smartcard_technology.aspx
+[MULTOS vs JavaCard] http://jkremer.com/White%20Papers/MULTOS%20and%20JAVACARD%20White%20Paper%20JKCS.pdf 
+[JavaCards] http://people.cs.uchicago.edu/~dinoj/smartcard/javacardarch.html
+[SIMCARDS] http://en.wikipedia.org/wiki/Subscriber_identity_module 
+[BUNNIESTUDIOS] http://www.bunniestudios.com/blog/?p=3554 
+[OMA DICTIONARY] http://technical.openmobilealliance.org/document/OMA-ORG-Dictionary-V2_7-20081023-A.pdf 
+[CHMOD] http://www.computerhope.com/unix/uchmod.htm 
+[OPENMOKO] http://wiki.openmoko.org/wiki/Openmoko_developer_guide 
+[GSM 11.11] http://www.etsi.org/deliver/etsi_gts/11/1111/05.03.00_60/gsmts_1111v050300p.pdf
+[SIM_ANALYSIS] http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.160.4644 
+[DUAL OS] http://tech.wp.pl/kat,1009781,title,Geeksphone-Revolution-oto-smartfon-dla-prawdziwego-geeka,wid,16402461,wiadomosc.html?ticaid=11238d&_ticrsn=3
+[ANDROID_VERSION_HISTORY] https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html
+[ANDROID_CUSTOM_ROMS] https://fossbytes.com/android-custom-roms/
+[KITKAT SECURITY] http://www.xda-developers.com/android/android-4-4-security-enhancements/
+[BLACKBERRY HACKING] https://www.sec-consult.com/fxdata/seccons/prod/downloads/sec_consult_vulnerability_lab_blackberry_z10_initial_analysis_v10.pdf
+[BLACKBERRY FLAWS] http://www.infosecurity-magazine.com/view/34487/blackberry-issues-four-security-advisories-for- bb-10-devices/ 
+[SYMBIAN APPLIST]  http://www.allaboutsymbian.com/news/item/19470_Introducing_AppList_beta-and_a.php 
+[ACCENTURE] http://newsroom.accenture.com/news/nokia-and-accenture-finalize-symbian-software-development-and-support-services-outsourcing.htm 
+[WINDOWS8 PHONE FEATURES] http://www.wpcentral.com/windows-phone-81-features
+[iNAND] http://www.synnex.com.tw/oem/mic_link/seminar%20download/%E6%96%B0%E4%B8%80%E4%BB%A3%20Handheld%20Storage%EF%BC%8CSandisk%20iNand.pdf 
+[ECC ON FLASH] http://www.spansion.com/Support/Application%20Notes/Types_of_ECC_Used_on_Flash_AN.pdf 
+[FLASH SURVEY] http://www.tau.ac.il/~stoledo/Pubs/flash-survey.pdf 
+[FAT] http://technet.microsoft.com/en-us/library/cc776720(v=ws.10).aspx
+[SYMBIAN INTERNALS] http://developer.nokia.com/community/wiki/Symbian_OS_Internals 
+[RFS] http://movitool.ntd.homelinux.org/trac/movitool/wiki/RFS 
+[ONFI] http://www.onfi.org/
+[JEFFGRAVES] http://jeffgraves.me/tag/usb-flash-drive/
+[XABEAN] http://www.slideshare.net/xabean/controlling-usb-flash-drive-controllers-expose-of-hidden-features
+[SD SPEC] https://www.sdcard.org/downloads/pls/simplified_specs/part1_410.pdf 
+[HOW YAFFS WORKS] http://www.dubeiko.com/development/FileSystems/YAFFS/HowYaffsWorks.pdf 
+[ANDMALWARE STATS] http://niebezpiecznik.pl/post/99-mobilnego-malwareu-dotyczy-androida/ 
+[Windows Phone is dead] http://www.express.co.uk/life-style/science-technology/788280/Samsung-Galaxy-S8-Microsoft-Edition
+
+[1] http://en.wikipedia.org/wiki/File:World_Wide_Smartphone_Sales.png, Wikipedia, 23.01.2014
+[2] http://www.simcardsfree.org.uk/wp-content/uploads/2013/01/simcards1-300x225.jpg , 25.03.2014
+[KARSTEN NOHL] http://www.cs.virginia.edu/~kn5f/ ,10.05.2014
+[ALL_YOUR_BASE] https://www.youtube.com/watch?v=fQqv0v14KKY

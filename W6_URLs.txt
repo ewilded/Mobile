@@ -1,0 +1,13 @@
+[CYNTHIA MURPHY] http://digital-forensics.sans.org/media/mobile-device-forensic-process-v3.pdf
+[RECOVERING FAT PARTITIONS] http://www.controlf.net/content/uploads/MANSELL-Imaging-FAT-Partitions-on-Phone-Handsets-Feb-09.pdf 
+[EVIDENCEMAGAZINE] http://www.evidencemagazine.com/index.php?option=com_content&task=view&id=922 
+[VIAFORENSICS] https://viaforensics.com/wpinstall/wp-content/uploads/2009/08/Android-Forensics-Andrew-Hoog-viaForensics.pdf 
+[LIME] https://code.google.com/p/volatility/wiki/AndroidMemoryForensics#Load_the_LiME_LKM_on_the_Android_Device 
+[VOLATILMEM] http://blog.opensecurityresearch.com/2012/04/acquiring-volatile-memory-from-android.html 
+[DDMS] http://smartapps-android.blogspot.com/2012/02/dalvik-debug-monitor-server-ddms.html 
+[AUSTRALIAN] http://www.8051projects.net/files/public/1236046309_9698_FT19075_forensic_analysis_of_mobile_phones.pdf 
+[EXTRACTING DATA FROM DAMAGED DEVICES] http://articles.forensicfocus.com/2013/08/21/extracting-data-from-damaged-mobile-devices/ 
+
+[1] http://www.bennettoffice.com/wp-content/uploads/2012/01/Secure-Mobile.jpg, 16.03.2014
+
+

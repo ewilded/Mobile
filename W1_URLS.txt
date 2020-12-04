@@ -1,0 +1,91 @@
+[PHONES_AND_CANCER] https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet
+[FORBES_CELLPHONE_RADIATION] https://www.forbes.com/sites/quora/2018/02/02/the-truth-about-cell-phone-radiation/
+[RFSAFE] https://www.rfsafe.com/
+[DISCONNECT] https://www.amazon.com/Disconnect-Radiation-Industry-Protect-Family/dp/140016897X
+[CMDA] https://www.pcmag.com/news/300986/cdma-vs-gsm-whats-the-difference
+[GOOGLE GLASS] https://support.google.com/glass/answer/3064128?hl=en 
+[NANOROBOTS] http://www.nytimes.com/2011/06/20/world/20drones.html?pagewanted=all&_r=0 
+[PDA NEWTON] http://techland.time.com/2012/06/01/newton-reconsidered/ 
+[SMARTGPS] http://tech.wp.pl/kat,1009793,title,Tablety-do-nawigacji-od-SmartGPS,wid,16346052,wiadomosc.html?ticaid=112970&_ticrsn=3 
+[NAVIT] http://www.navit-project.org/
+[STATS2020] https://kommandotech.com/statistics/how-much-time-does-the-average-person-spend-on-their-phone/
+
+[IWATCH] http://www.techradar.com/news/portable-devices/apple-iwatch-release-date-news-and-rumours-1131043 
+[2] http://www.digitalbuzzblog.com/infographic-2013-mobile-growth-statistics/
+[3] http://mobithinking.com/mobile-marketing-tools/latest-mobile-stats				[ BROKEN ]
+[4] http://www.statisticbrain.com/mobile-device-cell-phone-statistics/				[ PAID ACCESS, REMOVE IT ]
+[5] http://www.worldometers.info/world-population/
+[6] http://mobithinking.com/mobile-marketing-tools/latest-mobile-stats/a#smartphonepenetration
+[7] http://www.ericsson.com/res/docs/2013/ericsson-mobility-report-november-2013.pdf 
+[DEFENSE] http://www.mobiledia.com/news/155775.html 
+[9] http://www.networkworld.com/news/2011/031411-richard-stallman.html
+[10] http://en.wikipedia.org/wiki/Mobile_phone
+[11] http://en.wikipedia.org/wiki/Smartphone#Early_years 
+[12] http://www.geek.com/hwswrev/pda/ericr380/
+[13] http://en.wikipedia.org/wiki/Handheld_game_console 
+[14] http://en.wikipedia.org/wiki/Tablet_computer
+[15] http://en.wikipedia.org/wiki/GRiDPad 
+[16] http://niebezpiecznik.pl/post/masz-telefon-z-andoridem-uwazaj/
+[17] http://niebezpiecznik.pl/post/malware-na-androida-aktywowany-polaczeniem-przychodzacym/
+[18] http://niebezpiecznik.pl/post/android-oraz-nokia-podatne-na-bezprzewodowe-ataki-nfc/
+[19] http://niebezpiecznik.pl/post/telefon-szpieg-ukradkiem-sfotografuje-twoj-dom-zrobi-z-niego-model-w-3d-i-pokaze-zlodziejowi/
+[20] http://niebezpiecznik.pl/post/falszywy-instagram-na-androida-wysyla-sms-y-premium/ 
+[21] http://niebezpiecznik.pl/post/21-popularnych-aplikacji-na-androida-z-trojanem-w-prezencie/
+[22] http://niebezpiecznik.pl/post/karty-sim-podatne-na-ataki-pol-miliarda-telefonow-mozna-przejac-niewidzialnym-sms-em/
+[23] http://niebezpiecznik.pl/post/to-przez-brytyjczykow-mamy-slabe-szyfrowanie-rozmow-w-sieciach-gsm/
+[24] http://niebezpiecznik.pl/post/iphone-i-ipad-zapisuja-gdzie-byles/
+[25] http://niebezpiecznik.pl/post/zawieszanie-telefonow-sms-em/ 
+[26] http://niebezpiecznik.pl/post/ten-kosz-na-smieci-cie-sledzi-ta-wtyczka-w-scianie-tez/
+[27] http://www.networkworld.com/news/2013/120913-a-clear-eyed-guide-to-android39s-276724.html
+[28] http://niebezpiecznik.pl/post/aplikacja-na-telefon-do-wykradania-danych-ze-zblizeniowych-kart-kredytowych/ 
+[29] http://niebezpiecznik.pl/post/motorola-podsluchuje-swoje-telefony-i-po-cichu-wysyla-prywatne-dane-klientow-do-swojej-chmury/
+[30] http://niebezpiecznik.pl/post/iphone-jako-keylogger-wystarczy-polozyc-go-obok-komputera/
+[31] http://niebezpiecznik.pl/post/program-do-hackowania-na-androida/
+[32] http://niebezpiecznik.pl/post/firesheep-na-telefon/
+[34] http://niebezpiecznik.pl/post/sluzby-czytaja-nasze-sms-y-jak-zabezpieczyc-sie-przed-inwigilacja/
+[35] http://niebezpiecznik.pl/post/identyfikacja-ludzi-przez-ruch-na-podstawie-akecelerometru/
+[36] http://niebezpiecznik.pl/post/odebranie-tego-sms-a-bedzie-cie-drogo-kosztowalo/
+
+
+
+[41] https://play.google.com/store/apps/details?id=com.antivirus
+[42] http://i-hls.com/2013/09/new-cyber-security-solutions-for-android-environment/
+[43] http://niebezpiecznik.pl/post/backdoor-w-samsungu-galaxy-s-note-i-tab/
+[SMARTWATCHES] http://www.techradar.com/news/world-of-tech/best-smart-watches-what-s-the-best-wearable-tech-for-you--1154074
+[SONY TABLET] http://www.gsmarena.com/sony_tablet_s_3g-4138.php 
+[TABLETS] http://www.techradar.com/news/mobile-computing/tablets/10-best-tablet-pcs-in-the-world-today-1079603
+[MOBILE STATS] http://www.smartinsights.com/mobile-marketing/mobile-marketing-analytics/mobile-marketing-statistics/
+
+[ANDROID RANSOMWARE] http://niebezpiecznik.pl/wp-content/uploads/2014/05/android-ransomware.png  
+[BEACON] http://www.spidersweb.pl/2014/01/beacon.html 
+[Body implants] https://dangerousthings.com/shop/xnti/
+[Market Share] http://www.idc.com/promo/smartphone-market-share/os
+[statista] https://www.statista.com/statistics/274774/forecast-of-mobile-phone-users-worldwide/
+[more devices than people] http://www.independent.co.uk/life-style/gadgets-and-tech/news/there-are-officially-more-mobile-devices-than-people-in-the-world-9780518.html
+[mockingbird] https://www.washingtonpost.com/opinions/compromise-needed-on-smartphone-encryption/2014/10/03/96680bf8-4a77-11e4-891d-713f052086a0_story.html?utm_term=.8ae635a87bff
+[mobile malware trend] http://blog.trendmicro.com/continued-rise-in-mobile-threats-for-2016/
+[CHINSKIE ZELAZKA SZPIEGOWSKIE] http://www.tvp.info/12901352/informacje/rozmaitosci/szpiegowskie-nadajniki-w-czajnikach/ , http://www.sfora.pl/swiat/Chinskie-czajniki-i-zelazka-szpieguja-Znalezli-nadajniki-a61239  , http://niebezpiecznik.pl/post/w-sowieckiej-rosji-nawet-zelazka-wysylaja-spam/ [SMALLEST DRONE] http://www.engineering.com/Videos/Thisweekinengineering/VideoId/2577/TWIE-52-Worlds-Smallest-Spy-Drone.aspx 
+
+
+GRAPHICS
+[1] Vuono, Salvatore. Smartphone. FreeDigitalPhotos.net, 20.01.2014
+[2] Wikipedia, http://en.wikipedia.org/wiki/File:2007Computex_e21Forum-MartinCooper.jpg, 21.01.2014
+[MOSQUITO] http://dcnewsman.blogspot.com/2012/06/remote-controlled-mosquito-sized-flying.html , 21.01.2014
+[THE PALM TX] 
+[SMOMBIES] https://duckduckgo.com/?q=smartphone+zombies&t=canonical&atb=v122-1&ia=images&iax=images
+http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/PalmTX.jpg/330px-PalmTX.jpg , 21.01.2014
+[PSION ORGANIZER] http://thumbs4.ebaystatic.com/d/l225/m/mZ6xmdpiPYSwnrOvIq7u9Lg.jpg , 23.04.2014
+[TOMTOM] http://www.tomtom.com/pl_pl/images/Overview-Start-series-PL.png , 23.04.2014
+[NOKIA N810] http://www.gsmarena.com/nokia_n810-pictures-3890.php , 23.04.2014
+[ASUS TRANSFORMER] https://www.asus.com/Tablets_Mobile/Eee_Pad_Transformer_Prime_TF201/ , 23.04.2014
+[3] http://www.networkworld.com/graphics/ab5_images/031411-stallman.jpg, Networkworld 2011, 21.01.2014
+[4] http://en.wikipedia.org/wiki/File:As_Time_Goes_By_(Nokia_9000_Communicator_%26_E7).jpg, 21.01.2014
+[5] http://www.razerzone.com/switchblade/about, 21.01.2014
+[6] http://en.wikipedia.org/wiki/File:Nokia_N-Gage.png, 22.01.2014
+[7] http://spookyshobbyshop.com, 22.01.2014
+[8] http://oldcomputers.net/pics/gridpad-right.jpg , 22.01.2014
+[9] http://www.esg-global.com/default/cache/file/BD3C8C72-FD80-EB26-038A5C6A2DF33EEA_medium.jpg , 22.01.2014
+[GARMIN FORETREX] https://images-na.ssl-images-amazon.com/images/I/71U991G43JL._SL1500_.jpg
+[TELETRIM] http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Pager_teletrim.JPG/330px-Pager_teletrim.JPG , 23.04.2014
+[Garmin Vivofit] http://www.benchmark.pl/testy_i_recenzje/jaka-opaske-fitness-wybrac.html
+[datareportal] https://datareportal.com/reports/digital-2019-global-digital-overview

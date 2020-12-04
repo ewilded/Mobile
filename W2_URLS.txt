@@ -1,0 +1,26 @@
+[1] http://en.wikipedia.org/wiki/Mobile_device
+[SMARTCARD] http://en.wikipedia.org/wiki/Smart_card
+[AUSTRALIAN] http://www.8051projects.net/files/public/1236046309_9698_FT19075_forensic_analysis_of_mobile_phones.pdf
+[GSM SMS] http://www.etsi.org/deliver/etsi_gts/03/0340/05.03.00_60/gsmts_0340v050300p.pdf 
+[BASE64] http://en.wikipedia.org/wiki/Base64 
+[UTF-8] http://en.wikipedia.org/wiki/UTF-8 
+[iphonewiki] https://www.theiphonewiki.com/wiki/Usbmux
+[howtogeek_ptp_mtp] https://www.howtogeek.com/192732/android-usb-connections-explained-mtp-ptp-and-usb-mass-storage/
+[GSM] http://holman.id.au/apps/ipsms/default_alphabet.html 
+[SMS] http://mobileforensics.files.wordpress.com/2007/06/understanding_sms.pdf 
+[GSM ARCH] http://www.dauniv.ac.in/downloads/Mobilecomputing/MobileCompChap03L05GSMNetSubSyst_MSCs.pdf 
+[HACKADAY] http://hackaday.com/2011/03/10/thursday-gsm-tracking-without-gps/
+[RFWIRELESS] https://www.rfwireless-world.com/Terminology/4G-vs-5G-difference-between-4G-and-5G.html
+[BINARY SMS] http://mobiforge.com/design-development/binary-sms-sending-rich-content-devices-using-sms 
+[7 BIT FORENSICS] http://seven-bit-forensics.blogspot.com/2014/02/decoding-gsmsms-timestamps.html
+[PROTOCOL STACK] http://www.3gpp.org/ftp/tsg_t/tsg_t/TSGT_05/Docs/PDFs/TP-99185.pdf
+
+
+[MARTIOSZKA] http://en.wikipedia.org/wiki/File:Russian-Matroshka_no_bg.jpg 
+[1] http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ethernet_Connection.jpg/220px-Ethernet_Connection.jpg
+[2] http://www.learn44.com/ethernet-ii-frame-and-802-3-ethernet-frame/ 
+[3] http://en.wikipedia.org/wiki/File:MAC-48_Address.svg
+[4] http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg/830px-2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg.png
+[GSM ALPH] http://en.wikipedia.org/wiki/File:GSM_7-bit_Alphabet.PNG 
+http://upload.wikimedia.org/wikipedia/commons/9/9f/Bluetooth_protokoly.svg
+

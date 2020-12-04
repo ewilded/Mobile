@@ -1,0 +1,87 @@
+[BASEBAND]
+https://www.youtube.com/watch?v=fQqv0v14KKY
+https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf
+https://www.fsf.org/blogs/community/replicant-developers-find-and-close-samsung-galaxy-backdoor
+[YES_BASEBAND_IS_EVIL] https://redmine.replicant.us/projects/replicant/wiki/QualcommSOCs
+[IMSI_catcher_talk] https://www.youtube.com/watch?v=eivHO1OzF5E
+[SS7_talk] https://www.youtube.com/watch?v=-wu_pO5Z7Pk
+[SS7_positive_tech] https://positive-tech.com/research/ss7-vulnerability-2018
+[CreepyDOL] https://media.blackhat.com/us-13/US-13-OConnor-CreepyDOL-Cheap-Distributed-Stalking-Slides.pdf https://newatlas.com/wi-fi-track-smartphone-creepydol/28585/
+[Diameter_positive-tech] https://positive-tech.com/research/next-generation-networks-next-level-cybersecurity-problems
+[SIMJACKER] https://thehackernews.com/2019/09/dynamic-sim-toolkit-vulnerability.html
+https://simjacker.com/downloads/technicalpapers/AdaptiveMobile_Security_Simjacker_Technical_Paper_v1.01.pdf https://youtu.be/oZEjw6lOuhY
+[OPENSECURITY] http://opensecuritytraining.info/AndroidForensics_files/Android%20Forensics%20and%20Security%20Testing%20Course_PUBLIC_RELEASE.pptx.pdf 
+[HAKOWANIE SIRII] http://niebezpiecznik.pl/post/hackowanie-siri/ 
+[XDA SCREEN CRACK] http://forum.xda-developers.com/showthread.php?t=2620456 
+[SECRETS AND LIES] https://www.schneier.com/book-sandl.html 
+[CMWIKI] http://wiki.cyanogenmod.org/w/Template:Recovery_install_fastboot 
+[CHRISTIAN FORST] http://christianforst.de/?wpfb_dl=125 
+[NULLPTR] http://phrack.org/issues/64/6.html 
+[SUID] http://www.linuxnix.com/2011/12/suid-set-suid-linuxunix.html 
+[BUSYBOX] http://www.busybox.net/FAQ.html#whatis 
+[ROOTING] http://www.pocketables.com/2011/06/how-to-manually-root-almost-any-android-device.html 
+[PSNEUTER] https://github.com/tmzt/g2root-kmod/blob/master/scotty2/psneuter/psneuter.c
+[ONE TO ROOT THEM ALL] http://www.youtube.com/watch?v=ExX9_BN9XL8 
+[KITKAT INCLUDED] http://securityaffairs.co/wordpress/19400/hacking/android44-master-key-vulnerability.html 
+[E-Z-2-USE] http://niebezpiecznik.pl/post/powazna-dziura-w-androidzie-4-2-i-starszych-jego-wersjach-70-uzytkownikow-androida-podatnych-na-atak/
+[EUSECWEST] http://labs.mwrinfosecurity.com/blog/2012/09/19/mobile-pwn2own-at-eusecwest-2012/  
+[BIN4RY] http://forum.xda-developers.com/showthread.php?t=1886460 
+[SUPER ONE CLICK] http://lifehacker.com/5664001/superoneclick-roots-virtually-every-android-phone-out-there
+[UP TO DATE] http://lifehacker.com/5789397/the-always-up-to-date-guide-to-rooting-any-android-phone  
+[NOHL] http://www.cs.virginia.edu/~kn5f/ 
+[NOHL BLACKHAT] http://www.youtube.com/watch?v=wBzb-Zx4rsI 
+[ANDROID BRUTE] https://santoku-linux.com/howto/mobile-forensics/how-to-brute-force-android-encryption#pull-header-footer-files 
+[SNOWDEN_DOES_NOT_USE_IPHONE] https://freedomhacker.net/edward-snowden-reveals-secret-nsa-backdoor-in-iphones-3617/
+[RAGE AGAINST THE CAGE] http://nosemaj.org/ratc-z4root-patched 
+[EPRINT] https://eprint.iacr.org/2013/224.pdf 
+[SIMCRACK] http://www.dejankaljevic.org/download/sim_scan.zip 
+[ELCOMSOFT] http://www.elcomsoft.com/help/en/eppb/blackberry_device_password.html 
+[Nokia microSD] http://nokiahacking.pl/lamiemy-haslo-z-karty-micro-sd-przez-komputer-vt28266.htm?sid=e71b4978ff0865be7c12545d7bf81a1d 
+[IMSI CATCHER] http://www.engadget.com/2010/07/31/hacker-intercepts-phone-calls-with-homebuilt-1-500-imsi-catcher/ 
+[IMSI CATCHER2] https://www.hacking-lab.com/export/cases/4052-imsi-catcher/index.html 
+[IMSI CATCHER3] http://statist.h16.ru/3g_catcher.html 
+[OPENSSID] https://www.os3.nl/_media/2012-2013/courses/ssn/open_wifi_ssid_broadcast_vulnerability.pdf 
+[CRACKING GESTURE] http://resources.infosecinstitute.com/android-forensics-cracking-the-pattern-lock-protection/ 
+[GSM HACKADAY] http://hackaday.com/2013/10/22/cracking-gsm-with-rtl-sdr-for-thirty-dollars/ 
+[BRUTEFORCE ANDROID CRYPTO] https://santoku-linux.com/howto/mobile-forensics/how-to-brute-force-android-encryption#pull-header-footer-files
+[BRUTEFORCE ANDROID CRYPTO PY] https://github.com/santoku/Santoku-Linux/blob/master/tools/android/android_bruteforce_stdcrypto/bruteforce_stdcrypto.py 
+[FULL DISK ENCRYPTION] http://www.ccsl.carleton.ca/~dbarrera/files/spsm13-skillen.pdf 
+[FREEZER ATTACK] http://www.howtogeek.com/141805/htg-explains-how-encryption-can-be-bypassed-with-a-freezer/ 
+[BLUEJACK] http://niebezpiecznik.pl/post/atak-bluejacking-wykorzystany-w-reklamie-volkswagena/ 
+[BLUETOOTH EXPOSED] http://www.wegilant.com/wp-content/uploads/2013/05/Attacks-on-Bluetooth-Devices.pdf 
+[RAINBOW] http://kestas.kuliukas.com/RainbowTables/ 
+[FFDROID VULN] http://niebezpiecznik.pl/post/exploit-0day-na-firefoksa-na-androidzie/ 
+[CVEDETAILS ANDROID] http://www.cvedetails.com/product/19997/Google-Android.html?vendor_id=1224
+[CVEDETAILS iOS] http://www.cvedetails.com/product/15556/Apple-Iphone-Os.html?vendor_id=49
+[iOS security] https://www.apple.com/business/docs/iOS_Security_Guide.pdf 
+[CIA iOS EXPLOITS] https://wikileaks.org/ciav7p1/cms/space_2359301.html
+[Fake BTS] https://niebezpiecznik.pl/post/przeklinajacy-trojan-zaraza-androidy-poprzez-falszywe-bts-y/
+[Exploring SmartLocks] https://www.youtube.com/watch?v=T9wgRg4iNj0
+[Ways to unlock iPhone] https://niebezpiecznik.pl/post/3-sposoby-fbi-na-zhackowanie-zablokowanego-iphona/
+[Trident iOS vulnerabilities] https://threatpost.com/emergency-ios-update-patches-zero-days-used-by-government-spyware/120158/
+[Stagefright in action] https://www.youtube.com/watch?v=71YP65UANP0
+[OMA hacking 1] https://niebezpiecznik.pl/post/jak-zhackowac-dowolnego-smartphona-oraz-inne-urzadzenia-komunikujace-sie-po-gsm/
+[OMA hacking 2] https://youtu.be/wuO7yWkscP4
+[SV Strike] https://www.youtube.com/watch?v=JVa4reXY3pI
+[NIA unlock] https://www.youtube.com/watch?v=xRbLXldBL1s&feature=youtu.be
+[Over the air RCE and jailbreak] https://youtu.be/DuaGt83ZCiw
+[Lollipop Lockscreen Hack] http://bgr.com/2015/09/16/android-5-0-lollipop-lockscreen-password-hack/
+[Android 5 Lockscreen Bypass] http://sites.utexas.edu/iso/2015/09/15/android-5-lockscreen-bypass/
+[bezpieczenstwo polskiego gsm] https://niebezpiecznik.pl/post/bezpieczenstwo-polskich-sieci-gsm/
+[Skylock] https://niebezpiecznik.pl/post/jak-namierzyc-lokalizacje-dowolnego-telefonu-komorkowego/
+[pobor mocy] https://niebezpiecznik.pl/post/telefon-komorkowy-moze-cie-zlokalizowac-przez-analize-poboru-mocy/
+[0SMS] http://niebezpiecznik.pl/post/google-nexus-34-i-galaxy-podatne-na-ataki-sms/ 
+[NSO-PEGASUS] https://assets.documentcloud.org/documents/4599753/NSO-Pegasus.pdf
+
+Graphics:
+[ALL_YOUR_BASE] https://www.youtube.com/watch?v=fQqv0v14KKY
+[SS7_talk] 
+https://www.youtube.com/watch?v=-wu_pO5Z7Pk
+[TINFOILHAT] https://www.pinterest.com/pin/353110427015980595/
+[FDE] http://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/
+[BLUE_BAG] http://www.securenetwork.it/download/ricerca/whitepaper/bluebag_brochure.pdf 
+[AV_Android] https://www.extremetech.com/computing/104827-android-antivirus-apps-are-useless-heres-what-to-do-instead
+[39] http://niebezpiecznik.pl/post/jak-amazon-pomogl-zhackowac-apple/ 
+[40] http://preyproject.com/ 
+[33] http://niebezpiecznik.pl/post/wykrywacz-imsi-catcherow-dla-androida-aimsicd/ 
+[ANDROID_PATCHES_NOV2019] https://www.securityweek.com/google-patches-critical-flaws-androids-system-component
