@@ -14,13 +14,18 @@
 [BINARY SMS] http://mobiforge.com/design-development/binary-sms-sending-rich-content-devices-using-sms 
 [7 BIT FORENSICS] http://seven-bit-forensics.blogspot.com/2014/02/decoding-gsmsms-timestamps.html
 [PROTOCOL STACK] http://www.3gpp.org/ftp/tsg_t/tsg_t/TSGT_05/Docs/PDFs/TP-99185.pdf
+[RFIDPOLSKA] https://www.rfidpolska.pl/technologia-rfid-co-to-jest
+[RFIDNFC] https://www.nfc24.pl/rfid-nfc
+[RAILROADS] https://www.railway-technology.com/features/feature1684/
+[NFC_ANDROID]
+https://developer.android.com/guide/topics/connectivity/nfc#:~:text=Near%20Field%20Communication%20(NFC)%20is,Tags%20can%20range%20in%20complexity.
+[NFCFORUM] http://www.nfc-forum.org/
 
-
-[MARTIOSZKA] http://en.wikipedia.org/wiki/File:Russian-Matroshka_no_bg.jpg 
+[MATRIOSZKA] http://en.wikipedia.org/wiki/File:Russian-Matroshka_no_bg.jpg 
 [1] http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ethernet_Connection.jpg/220px-Ethernet_Connection.jpg
 [2] http://www.learn44.com/ethernet-ii-frame-and-802-3-ethernet-frame/ 
 [3] http://en.wikipedia.org/wiki/File:MAC-48_Address.svg
 [4] http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg/830px-2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg.png
 [GSM ALPH] http://en.wikipedia.org/wiki/File:GSM_7-bit_Alphabet.PNG 
 http://upload.wikimedia.org/wikipedia/commons/9/9f/Bluetooth_protokoly.svg
-
+[RFID_construction] https://www.rfidpolska.pl/wp-content/uploads/elementor/thumbs/konstrukcja-tagu-rfid-chip-antena-oqgxi184b3r2r8nez4zessvm0ad7oo2gjd8yb2gcpw.jpg

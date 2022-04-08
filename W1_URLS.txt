@@ -1,10 +1,25 @@
+[MOBILE_DEVICE_DEFINITION] https://www.dictionary.com/browse/mobile-device
+[BEACON] https://www.youtube.com/watch?v=2YorsgulwdU
+[PiPhone] https://techcrunch.com/2014/04/28/the-piphone-is-a-diy-cellphone-powered-by-raspberry-pi/
+[RFIDPolska] https://www.rfidpolska.pl/technologia-rfid-co-to-jest/#co-to-s%C4%85-tagi-rfid
+[RFID_NFC] https://www.nfc24.pl/rfid-nfc
+[BuzzBee] https://www.mobilefun.com/buzzbee-nano-drone-the-world-s-smallest-quadcopter-59090
+[Skeye] https://www.jebiga.com/skeye-the-worlds-smallest-drone/#:~:text=Dutch%20company%20TRNDlabs%20launched%20SKEYE,and%20weighs%20just%200.25%20ounces.
+[Smallest Robots] https://www.sciencefocus.com/future-technology/whats-the-smallest-robot/#:~:text=The%20world's%20smallest%20flying%20robot,floor%20that%20contains%20tiny%20electrodes.
+[CovidPassChipsSweden] https://www.newsmax.com/newsfront/microchip-covid-passport-sweden/2021/12/18/id/1049202/ - allegedly by a Swedish company Retool NFC
+[PaymentImplantsSweden] https://nypost.com/2019/07/14/swedish-people-are-getting-chip-implants-to-replace-cash-credit-cards/ 
+[SmartCams] https://smartcams.pl/77-kamera-samochodowa-w-lusterku-smartcams-hsj3000-android.html
+[phantom_vibration_syndrome] https://www.today.com/series/wired/are-cellphones-causing-hallucinations-reason-why-you-felt-phantom-buzz-t67231
+[ATTENTION_SPAN] https://www.aarp.org/health/brain-health/info-2017/mental-focus-smartphone-use.html
+[NIH_PAPER] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5403814/
+[datareportal] https://datareportal.com/reports/digital-2022-global-overview-report
 [PHONES_AND_CANCER] https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet
 [FORBES_CELLPHONE_RADIATION] https://www.forbes.com/sites/quora/2018/02/02/the-truth-about-cell-phone-radiation/
 [RFSAFE] https://www.rfsafe.com/
 [DISCONNECT] https://www.amazon.com/Disconnect-Radiation-Industry-Protect-Family/dp/140016897X
 [CMDA] https://www.pcmag.com/news/300986/cdma-vs-gsm-whats-the-difference
 [GOOGLE GLASS] https://support.google.com/glass/answer/3064128?hl=en 
-[NANOROBOTS] http://www.nytimes.com/2011/06/20/world/20drones.html?pagewanted=all&_r=0 
+
 [PDA NEWTON] http://techland.time.com/2012/06/01/newton-reconsidered/ 
 [SMARTGPS] http://tech.wp.pl/kat,1009793,title,Tablety-do-nawigacji-od-SmartGPS,wid,16346052,wiadomosc.html?ticaid=112970&_ticrsn=3 
 [NAVIT] http://www.navit-project.org/
@@ -18,49 +33,27 @@
 [6] http://mobithinking.com/mobile-marketing-tools/latest-mobile-stats/a#smartphonepenetration
 [7] http://www.ericsson.com/res/docs/2013/ericsson-mobility-report-november-2013.pdf 
 [DEFENSE] http://www.mobiledia.com/news/155775.html 
-[9] http://www.networkworld.com/news/2011/031411-richard-stallman.html
+[9] https://www.networkworld.com/article/2200967/software-cell-phones-are-stalin-s-dream-says-free-software-movement-founder.html
 [10] http://en.wikipedia.org/wiki/Mobile_phone
 [11] http://en.wikipedia.org/wiki/Smartphone#Early_years 
 [12] http://www.geek.com/hwswrev/pda/ericr380/
 [13] http://en.wikipedia.org/wiki/Handheld_game_console 
 [14] http://en.wikipedia.org/wiki/Tablet_computer
 [15] http://en.wikipedia.org/wiki/GRiDPad 
-[16] http://niebezpiecznik.pl/post/masz-telefon-z-andoridem-uwazaj/
-[17] http://niebezpiecznik.pl/post/malware-na-androida-aktywowany-polaczeniem-przychodzacym/
-[18] http://niebezpiecznik.pl/post/android-oraz-nokia-podatne-na-bezprzewodowe-ataki-nfc/
-[19] http://niebezpiecznik.pl/post/telefon-szpieg-ukradkiem-sfotografuje-twoj-dom-zrobi-z-niego-model-w-3d-i-pokaze-zlodziejowi/
-[20] http://niebezpiecznik.pl/post/falszywy-instagram-na-androida-wysyla-sms-y-premium/ 
-[21] http://niebezpiecznik.pl/post/21-popularnych-aplikacji-na-androida-z-trojanem-w-prezencie/
-[22] http://niebezpiecznik.pl/post/karty-sim-podatne-na-ataki-pol-miliarda-telefonow-mozna-przejac-niewidzialnym-sms-em/
-[23] http://niebezpiecznik.pl/post/to-przez-brytyjczykow-mamy-slabe-szyfrowanie-rozmow-w-sieciach-gsm/
-[24] http://niebezpiecznik.pl/post/iphone-i-ipad-zapisuja-gdzie-byles/
-[25] http://niebezpiecznik.pl/post/zawieszanie-telefonow-sms-em/ 
-[26] http://niebezpiecznik.pl/post/ten-kosz-na-smieci-cie-sledzi-ta-wtyczka-w-scianie-tez/
-[27] http://www.networkworld.com/news/2013/120913-a-clear-eyed-guide-to-android39s-276724.html
-[28] http://niebezpiecznik.pl/post/aplikacja-na-telefon-do-wykradania-danych-ze-zblizeniowych-kart-kredytowych/ 
-[29] http://niebezpiecznik.pl/post/motorola-podsluchuje-swoje-telefony-i-po-cichu-wysyla-prywatne-dane-klientow-do-swojej-chmury/
-[30] http://niebezpiecznik.pl/post/iphone-jako-keylogger-wystarczy-polozyc-go-obok-komputera/
-[31] http://niebezpiecznik.pl/post/program-do-hackowania-na-androida/
-[32] http://niebezpiecznik.pl/post/firesheep-na-telefon/
-[34] http://niebezpiecznik.pl/post/sluzby-czytaja-nasze-sms-y-jak-zabezpieczyc-sie-przed-inwigilacja/
-[35] http://niebezpiecznik.pl/post/identyfikacja-ludzi-przez-ruch-na-podstawie-akecelerometru/
-[36] http://niebezpiecznik.pl/post/odebranie-tego-sms-a-bedzie-cie-drogo-kosztowalo/
 
 
-
-[41] https://play.google.com/store/apps/details?id=com.antivirus
-[42] http://i-hls.com/2013/09/new-cyber-security-solutions-for-android-environment/
-[43] http://niebezpiecznik.pl/post/backdoor-w-samsungu-galaxy-s-note-i-tab/
 [SMARTWATCHES] http://www.techradar.com/news/world-of-tech/best-smart-watches-what-s-the-best-wearable-tech-for-you--1154074
 [SONY TABLET] http://www.gsmarena.com/sony_tablet_s_3g-4138.php 
 [TABLETS] http://www.techradar.com/news/mobile-computing/tablets/10-best-tablet-pcs-in-the-world-today-1079603
 [MOBILE STATS] http://www.smartinsights.com/mobile-marketing/mobile-marketing-analytics/mobile-marketing-statistics/
 
 [ANDROID RANSOMWARE] http://niebezpiecznik.pl/wp-content/uploads/2014/05/android-ransomware.png  
-[BEACON] http://www.spidersweb.pl/2014/01/beacon.html 
+ 
 [Body implants] https://dangerousthings.com/shop/xnti/
 [Market Share] http://www.idc.com/promo/smartphone-market-share/os
-[statista] https://www.statista.com/statistics/274774/forecast-of-mobile-phone-users-worldwide/
+[statista1] https://www.statista.com/statistics/330695/number-of-smartphone-users-worldwide/
+[statista2] https://www.statista.com/statistics/263437/global-smartphone-sales-to-end-users-since-2007/
+
 [more devices than people] http://www.independent.co.uk/life-style/gadgets-and-tech/news/there-are-officially-more-mobile-devices-than-people-in-the-world-9780518.html
 [mockingbird] https://www.washingtonpost.com/opinions/compromise-needed-on-smartphone-encryption/2014/10/03/96680bf8-4a77-11e4-891d-713f052086a0_story.html?utm_term=.8ae635a87bff
 [mobile malware trend] http://blog.trendmicro.com/continued-rise-in-mobile-threats-for-2016/

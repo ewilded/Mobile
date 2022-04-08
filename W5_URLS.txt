@@ -29,3 +29,5 @@ http://cheeky4n6monkey.blogspot.com/2013/02/creating-perl-script-to-retrieve.htm
 [PANOPTYKON_SLUZBY_2019] https://panoptykon.org/wiadomosc/sluzby-coraz-bardziej-interesuja-sie-billingami
 [GOOGLE_WIE_GDZIE_JESTES] https://niebezpiecznik.pl/post/google-wie-gdzie-jestes-i-gdzie-byles-i-dzieli-sie-tym-z-policja/
 [Pobór mocy a lokalizacja] https://niebezpiecznik.pl/post/telefon-komorkowy-moze-cie-zlokalizowac-przez-analize-poboru-mocy/
+[Siri_secret_recorder] https://www.secureforensics.com/blog/siri-can-discreetly-record-during-police-encounters
+[Android_storage_locations] https://developer.android.com/training/data-storage#:~:text=Removable%20volumes%2C%20such%20as%20an,saved%20might%20vary%20across%20devices.

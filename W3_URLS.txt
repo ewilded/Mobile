@@ -14,6 +14,7 @@
 [SIM_ANALYSIS] http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.160.4644 
 [DUAL OS] http://tech.wp.pl/kat,1009781,title,Geeksphone-Revolution-oto-smartfon-dla-prawdziwego-geeka,wid,16402461,wiadomosc.html?ticaid=11238d&_ticrsn=3
 [ANDROID_VERSION_HISTORY] https://www.computerworld.com/article/3235946/android-versions-a-living-history-from-1-0-to-today.html
+[MATERIAL_YOU] https://material.io/blog/announcing-material-you
 [ANDROID_CUSTOM_ROMS] https://fossbytes.com/android-custom-roms/
 [KITKAT SECURITY] http://www.xda-developers.com/android/android-4-4-security-enhancements/
 [BLACKBERRY HACKING] https://www.sec-consult.com/fxdata/seccons/prod/downloads/sec_consult_vulnerability_lab_blackberry_z10_initial_analysis_v10.pdf
@@ -28,12 +29,19 @@
 [SYMBIAN INTERNALS] http://developer.nokia.com/community/wiki/Symbian_OS_Internals 
 [RFS] http://movitool.ntd.homelinux.org/trac/movitool/wiki/RFS 
 [ONFI] http://www.onfi.org/
+[JEDEC_UFS] https://www.jedec.org/news/pressreleases/jedec-announces-publication-universal-flash-storage-ufs-standard
+[UFS_SMARTPRIX] https://www.smartprix.com/bytes/what-is-ufs-3-0-storage-how-will-it-impact-your-phones-performance/
 [JEFFGRAVES] http://jeffgraves.me/tag/usb-flash-drive/
 [XABEAN] http://www.slideshare.net/xabean/controlling-usb-flash-drive-controllers-expose-of-hidden-features
+[EMMC_SEC_FEATURES_WD] https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/white-paper/white-paper-emmc-security.pdf
+[RPMB] https://www.researchgate.net/publication/304410301_Mobile_secure_data_protection_using_eMMC_RPMB_partition
+[SEAGATE_SCSI] https://www.seagate.com/files/staticfiles/support/docs/manual/Interface%20manuals/100293068j.pdf
 [SD SPEC] https://www.sdcard.org/downloads/pls/simplified_specs/part1_410.pdf 
 [HOW YAFFS WORKS] http://www.dubeiko.com/development/FileSystems/YAFFS/HowYaffsWorks.pdf 
 [ANDMALWARE STATS] http://niebezpiecznik.pl/post/99-mobilnego-malwareu-dotyczy-androida/ 
 [Windows Phone is dead] http://www.express.co.uk/life-style/science-technology/788280/Samsung-Galaxy-S8-Microsoft-Edition
+[SIM_TOOLKIT] https://nerdschalk.com/what-is-sim-toolkit-app-on-android/
+[FREEDOM_ORIENTED_SMARTPHONES] https://puri.sm/products/librem-5/ https://fxtec.com/pro1x https://www.pine64.org/pinephone/
 
 [1] http://en.wikipedia.org/wiki/File:World_Wide_Smartphone_Sales.png, Wikipedia, 23.01.2014
 [2] http://www.simcardsfree.org.uk/wp-content/uploads/2013/01/simcards1-300x225.jpg , 25.03.2014
