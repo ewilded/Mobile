@@ -1,4 +1,10 @@
 [SMARTCARD] http://en.wikipedia.org/wiki/Smart_card
+[SAMSUNG_GEAR] https://www.smartwatchspecifications.com/devices/samsung-gear-s3-frontier-lte/
+[EMBEDDED_SIM] https://www.gsma.com/esim/wp-content/uploads/2021/10/SGP.22-2.4.pdf
+[WHAT_IS_EUICC] https://www.iot-now.com/2016/07/07/49682-what-is-euicc-and-why-is-it-important/
+[ANDROID_ESIM_SUPPORT] https://source.android.com/docs/core/connect/esim-overview
+[REMOTE_SIM_PROVISIONING] gsma.com/esim/resources/sgp-21-architecture-specification/
+[PLAY_ESIM] https://www.play.pl/nowy/uslugi/esim
 [SMARTCARD2] http://www.smartcardalliance.org/pages/smart-cards-intro-primer
 [SMARTCARD3] http://www.smartcardalliance.org/pages/smart-cards-intro-standards
 [SMARTCARD4] http://www.tldp.org/HOWTO/Smart-Card-HOWTO/classification.html
@@ -17,6 +23,7 @@
 [MATERIAL_YOU] https://material.io/blog/announcing-material-you
 [ANDROID_CUSTOM_ROMS] https://fossbytes.com/android-custom-roms/
 [KITKAT SECURITY] http://www.xda-developers.com/android/android-4-4-security-enhancements/
+
 [BLACKBERRY HACKING] https://www.sec-consult.com/fxdata/seccons/prod/downloads/sec_consult_vulnerability_lab_blackberry_z10_initial_analysis_v10.pdf
 [BLACKBERRY FLAWS] http://www.infosecurity-magazine.com/view/34487/blackberry-issues-four-security-advisories-for- bb-10-devices/ 
 [SYMBIAN APPLIST]  http://www.allaboutsymbian.com/news/item/19470_Introducing_AppList_beta-and_a.php 
