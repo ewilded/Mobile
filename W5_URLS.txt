@@ -31,3 +31,9 @@ http://cheeky4n6monkey.blogspot.com/2013/02/creating-perl-script-to-retrieve.htm
 [Pobór mocy a lokalizacja] https://niebezpiecznik.pl/post/telefon-komorkowy-moze-cie-zlokalizowac-przez-analize-poboru-mocy/
 [Siri_secret_recorder] https://www.secureforensics.com/blog/siri-can-discreetly-record-during-police-encounters
 [Android_storage_locations] https://developer.android.com/training/data-storage#:~:text=Removable%20volumes%2C%20such%20as%20an,saved%20might%20vary%20across%20devices.
+[FCM] https://firebase.google.com/docs/cloud-messaging
+[FCM_ANDROID] https://www.cclsolutionsgroup.com/post/fcm-queued-messages-on-android
+[LDB] https://github.com/google/leveldb
+[APN] https://developer.apple.com/notifications/
+[APPLE_WATCH_ADAPTERS] https://blog.elcomsoft.com/2021/11/apple-watch-forensics-more-on-adapters/
+[BIŃKOWSKI_OMH22] https://www.youtube.com/watch?v=x-jZZQLP1cw

@@ -29,8 +29,8 @@
 [SYMBIAN APPLIST]  http://www.allaboutsymbian.com/news/item/19470_Introducing_AppList_beta-and_a.php 
 [ACCENTURE] http://newsroom.accenture.com/news/nokia-and-accenture-finalize-symbian-software-development-and-support-services-outsourcing.htm 
 [WINDOWS8 PHONE FEATURES] http://www.wpcentral.com/windows-phone-81-features
+[HOW_MOSFET_WORKS] https://www.youtube.com/watch?v=Bfvyj88Hs_o
 [iNAND] http://www.synnex.com.tw/oem/mic_link/seminar%20download/%E6%96%B0%E4%B8%80%E4%BB%A3%20Handheld%20Storage%EF%BC%8CSandisk%20iNand.pdf 
-[ECC ON FLASH] http://www.spansion.com/Support/Application%20Notes/Types_of_ECC_Used_on_Flash_AN.pdf 
 [FLASH SURVEY] http://www.tau.ac.il/~stoledo/Pubs/flash-survey.pdf 
 [FAT] http://technet.microsoft.com/en-us/library/cc776720(v=ws.10).aspx
 [SYMBIAN INTERNALS] http://developer.nokia.com/community/wiki/Symbian_OS_Internals 

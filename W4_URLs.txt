@@ -1,3 +1,47 @@
+[2024_0days]
+https://securityonline.info/cve-2024-0031-critical-android-code-execution-vulnerability/
+https://securityonline.info/cve-2024-23208-exposed-a-poc-tool-unveils-ios-kernel-flaw/
+https://cybersecuritynews.com/bluetooth-flaw-hackers-takeover/
+https://www.youtube.com/watch?v=QU49Td1ijk8 iOS speculative execution exploits
+https://www.securityweek.com/5ghoul-vulnerabilities-haunt-qualcomm-mediatek-5g-modems/
+https://thehackernews.com/2023/12/new-bluetooth-flaw-let-hackers-take.html
+https://www.lbcgroup.tv/news/varietytech/722002/apple-fixes-zero-day-bugs-used-to-plant-pegasus-spyware/en
+https://www.bleepingcomputer.com/news/security/android-october-security-update-fixes-zero-days-exploited-in-attacks/
+https://ciso.economictimes.indiatimes.com/news/vulnerabilities-exploits/this-new-smartphone-vulnerability-is-allowing-hackers-to-track-user-location/102306471
+https://www.securityweek.com/arm-vulnerability-leads-to-code-execution-root-on-pixel-6-phones/
+https://www.bleepingcomputer.com/news/security/google-finds-more-android-ios-zero-days-used-to-install-spyware/
+https://www.securityweek.com/androids-april-2023-updates-patch-critical-remote-code-execution-vulnerabilities/
+https://github.blog/2023-01-23-pwning-the-all-google-phone-with-a-non-google-bug/
+https://cnb1901.com/blog-ghost-touch-hacking
+https://www.bleepingcomputer.com/news/apple/apple-fixes-three-new-zero-days-exploited-to-hack-iphones-macs/
+https://gbhackers.com/stealthy-sms-side-channel-attack-exposed/
+https://www.financialexpress.com/life/technology-govt-issues-security-warning-for-iphone-and-ipad-users-3431032/
+
+[MOBILE_MALWARE]
+https://www.linkedin.com/posts/george-y-al-koura_github-i-s00ni-s00n-activity-7165341129066930176-xZ2z - "Spyware? Implantable physical devices? Email surveillance? A whole slew of advanced 🇨🇳 state actor capabilities were leaked last night and it’s a doozy!"
+https://www.darkreading.com/vulnerabilities-threats/pegasus-spyware-targets-jordanian-civil-society
+https://www.bleepingcomputer.com/news/security/android-xloader-malware-can-now-auto-execute-after-installation/
+https://www.bleepingcomputer.com/news/security/ten-new-android-banking-trojans-targeted-985-bank-apps-in-2023/
+https://gbhackers.com/hackers-spy-iphone-users/
+https://techcrunch.com/2023/07/24/spyhide-stalkerware-android/
+https://securityaffairs.com/141989/malware/android-mobile-devices-china-malware.html
+https://www.bleepingcomputer.com/news/security/over-60-000-android-apps-secretly-installed-adware-for-past-six-months/
+https://blog.talosintelligence.com/mercenary-intellexa-predator/ Another NSO Group spyware for Android and iOS
+https://securelist.com/operation-triangulation/109842/, https://securelist.com/find-the-triangulation-utility/109867/ - Kaspersky's research on iOS exploitation using previously unknown malware - June 2023
+https://docs.mvt.re/en/latest/ - Mobile Verification Toolkit (MVT) is a tool to facilitate the consensual forensic analysis of Android and iOS devices, for the purpose of identifying traces of compromise.
+https://taomm.org/         Books about Mac Malware
+https://thehackernews.com/2024/04/exotic-visit-spyware-campaign-targets.html
+https://thehackernews.com/2024/04/apple-expands-spyware-alert-system-to.html
+https://thehackernews.com/2024/04/google-warns-android-zero-day-flaws-in.html Google Pixel 0days exploited in the wild by forensic companies
+https://twitter.com/GrapheneOS/status/1745506661467299946 Google Pixel 0days exploited in the wild by forensic companies
+https://cybersecuritynews.com/blueducky-exploits-bluetooth-vulnerability/
+
+[SCREEN LOCKS]
+https://cryptanalysis.tymyrddin.dev/docs/data/android-lock [GESTURE]
+https://securityaffairs.com/155588/hacking/android-14-13-lock-screen-bypass.html	[ANDROID_PARTIAL_BYPASS]
+[CVE-2022-20465] https://www.bleepingcomputer.com/news/security/android-phone-owner-accidentally-finds-a-way-to-bypass-lock-screen/ "Android versions 10, 11, 12, and 13 that haven't updated to November 2022 patch level", full bypass via SIM card PIN reset with PUK
+
+[ANDROID_ENCRYPTION] https://source.android.com/docs/security/features/encryption/file-based
 [BASEBAND]
 https://www.youtube.com/watch?v=fQqv0v14KKY
 https://www.usenix.org/system/files/conference/woot12/woot12-final24.pdf
@@ -10,15 +54,19 @@ https://www.fsf.org/blogs/community/replicant-developers-find-and-close-samsung-
 [Diameter_positive-tech] https://positive-tech.com/research/next-generation-networks-next-level-cybersecurity-problems
 [SIMJACKER] https://thehackernews.com/2019/09/dynamic-sim-toolkit-vulnerability.html
 https://simjacker.com/downloads/technicalpapers/AdaptiveMobile_Security_Simjacker_Technical_Paper_v1.01.pdf https://youtu.be/oZEjw6lOuhY
+[SS7_ATTACK_2020] https://www.bleepingcomputer.com/news/security/hackers-hijack-telegram-email-accounts-in-ss7-mobile-attack/ 
 [OPENSECURITY] http://opensecuritytraining.info/AndroidForensics_files/Android%20Forensics%20and%20Security%20Testing%20Course_PUBLIC_RELEASE.pptx.pdf 
 [HAKOWANIE SIRII] http://niebezpiecznik.pl/post/hackowanie-siri/ 
+[CallerID_SPOOFING] https://niebezpiecznik.pl/post/spoofing-rozmow-telefonicznych/
 [XDA SCREEN CRACK] http://forum.xda-developers.com/showthread.php?t=2620456 
 [SECRETS AND LIES] https://www.schneier.com/book-sandl.html 
 [CMWIKI] http://wiki.cyanogenmod.org/w/Template:Recovery_install_fastboot 
 [CHRISTIAN FORST] http://christianforst.de/?wpfb_dl=125 
 [NULLPTR] http://phrack.org/issues/64/6.html 
+[AV_Android] https://www.extremetech.com/computing/104827-android-antivirus-apps-are-useless-heres-what-to-do-instead
 [SUID] http://www.linuxnix.com/2011/12/suid-set-suid-linuxunix.html 
 [BUSYBOX] http://www.busybox.net/FAQ.html#whatis 
+[WPA_HANDSHAKE_EXPLAINED] https://networklessons.com/cisco/ccnp-encor-350-401/wpa-and-wpa2-4-way-handshake
 [ROOTING] http://www.pocketables.com/2011/06/how-to-manually-root-almost-any-android-device.html 
 [PSNEUTER] https://github.com/tmzt/g2root-kmod/blob/master/scotty2/psneuter/psneuter.c
 [ONE TO ROOT THEM ALL] http://www.youtube.com/watch?v=ExX9_BN9XL8 
@@ -29,12 +77,13 @@ https://simjacker.com/downloads/technicalpapers/AdaptiveMobile_Security_Simjacke
 [SUPER ONE CLICK] http://lifehacker.com/5664001/superoneclick-roots-virtually-every-android-phone-out-there
 [UP TO DATE] http://lifehacker.com/5789397/the-always-up-to-date-guide-to-rooting-any-android-phone  
 [NOHL] http://www.cs.virginia.edu/~kn5f/ 
-[NOHL BLACKHAT] http://www.youtube.com/watch?v=wBzb-Zx4rsI 
-[ANDROID BRUTE] https://santoku-linux.com/howto/mobile-forensics/how-to-brute-force-android-encryption#pull-header-footer-files 
+[NOHL BLACKHAT] http://www.youtube.com/watch?v=wBzb-Zx4rsI
+[WIB_ATTACK] https://www.youtube.com/watch?v=oZEjw6lOuhY
+
 [SNOWDEN_DOES_NOT_USE_IPHONE] https://freedomhacker.net/edward-snowden-reveals-secret-nsa-backdoor-in-iphones-3617/
 [RAGE AGAINST THE CAGE] http://nosemaj.org/ratc-z4root-patched 
 [EPRINT] https://eprint.iacr.org/2013/224.pdf 
-[SIMCRACK] http://www.dejankaljevic.org/download/sim_scan.zip 
+[SIM_SWAPPING] https://www.bleepingcomputer.com/news/security/sim-swappers-hijacking-phone-numbers-in-esim-attacks/
 [ELCOMSOFT] http://www.elcomsoft.com/help/en/eppb/blackberry_device_password.html 
 [Nokia microSD] http://nokiahacking.pl/lamiemy-haslo-z-karty-micro-sd-przez-komputer-vt28266.htm?sid=e71b4978ff0865be7c12545d7bf81a1d 
 [IMSI CATCHER] http://www.engadget.com/2010/07/31/hacker-intercepts-phone-calls-with-homebuilt-1-500-imsi-catcher/ 
@@ -50,6 +99,7 @@ https://simjacker.com/downloads/technicalpapers/AdaptiveMobile_Security_Simjacke
 [BLUEJACK] http://niebezpiecznik.pl/post/atak-bluejacking-wykorzystany-w-reklamie-volkswagena/ 
 [BLUETOOTH EXPOSED] http://www.wegilant.com/wp-content/uploads/2013/05/Attacks-on-Bluetooth-Devices.pdf 
 [RAINBOW] http://kestas.kuliukas.com/RainbowTables/ 
+[DISABLE-2G] https://source.android.com/docs/security/features/cellular-security/disable-2g
 [FFDROID VULN] http://niebezpiecznik.pl/post/exploit-0day-na-firefoksa-na-androidzie/ 
 [CVEDETAILS ANDROID] http://www.cvedetails.com/product/19997/Google-Android.html?vendor_id=1224
 [CVEDETAILS iOS] http://www.cvedetails.com/product/15556/Apple-Iphone-Os.html?vendor_id=49
@@ -72,7 +122,8 @@ https://simjacker.com/downloads/technicalpapers/AdaptiveMobile_Security_Simjacke
 [pobor mocy] https://niebezpiecznik.pl/post/telefon-komorkowy-moze-cie-zlokalizowac-przez-analize-poboru-mocy/
 [0SMS] http://niebezpiecznik.pl/post/google-nexus-34-i-galaxy-podatne-na-ataki-sms/ 
 [NSO-PEGASUS] https://assets.documentcloud.org/documents/4599753/NSO-Pegasus.pdf
-
+[KASPERSKY_MERCENARY_SPYWARE] https://www.kaspersky.com/blog/how-to-protect-from-pegasus-spyware/43453/
+[MAGNET-GRAYKEY] https://www.magnetforensics.com/products/magnet-graykey/
 Graphics:
 [ALL_YOUR_BASE] https://www.youtube.com/watch?v=fQqv0v14KKY
 [SS7_talk] 
@@ -80,7 +131,7 @@ https://www.youtube.com/watch?v=-wu_pO5Z7Pk
 [TINFOILHAT] https://www.pinterest.com/pin/353110427015980595/
 [FDE] http://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/
 [BLUE_BAG] http://www.securenetwork.it/download/ricerca/whitepaper/bluebag_brochure.pdf 
-[AV_Android] https://www.extremetech.com/computing/104827-android-antivirus-apps-are-useless-heres-what-to-do-instead
+
 [39] http://niebezpiecznik.pl/post/jak-amazon-pomogl-zhackowac-apple/ 
 [40] http://preyproject.com/ 
 [33] http://niebezpiecznik.pl/post/wykrywacz-imsi-catcherow-dla-androida-aimsicd/ 

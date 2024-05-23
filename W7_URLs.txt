@@ -3,9 +3,13 @@
 [WEIRD PHONES2] http://www.phonearena.com/news/10-peculiar-weird-and-plain-ugly-cell-phones_id33199#8-Virgin-Lobster-700 
 [XABEAN] http://www.slideshare.net/xabean/controlling-usb-flash-drive-controllers-expose-of-hidden-features
 [SMS SPOOFING] http://niebezpiecznik.pl/post/spoofing-sms-czyli-falszowanie-nadawcy-sms-a/?X2 
+[ARESZTOWANI_PL] https://aresztowani.pl/czy-policja-moze-zadac-hasla-do-telefonu/#:~:text=Obowi%C4%85zuj%C4%85ce%20przepisy%20post%C4%99powania%20karnego%20nie,zabezpieczonego%20przez%20Policj%C4%99%20sprz%C4%99tu%20elektronicznego.
+[THURAYA] https://www.satellitephonestore.com/catalog/sale/details/thuraya-x5-touch-satellite-phone
+[GARMIN_MINI2] https://mediamarkt.pl/pl/product/_komunikator-satelitarny-garmin-mini-2-czerwony-010-02602-02-1473109.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_na_nsp_na_PMAX-RTV-i-Telewizory-PLA
+[EUROSATELITE] https://www.europasatellite.com/pl-eu/Iridium-Global-Prepaid-Card-4000-Minutes-p/iridium-global-prepaid-4000.htm
+[MESHTASTIC] https://www.youtube.com/watch?v=40llxjrIG3w https://medium.com/@timothydmoody/lora-v32-from-heltec-everything-you-need-to-know-def4d36fdfaf
 
-
-
+[1] https://www.satellitephonestore.com/uploads/pictures/description_images/SatellitePhones9.png
 [2] http://1.bp.blogspot.com/-NBlhbcm-JPo/URBTiUrqi3I/AAAAAAAAESs/zGFc6EX1MlI/s1600/010+NoWriting1-300x300.jpg , 15.03.2014
 [3] http://www.heavy.com/news/2013/11/saola-asian-unicorn-discovered-photos, 15.03.2014
 [4] http://www.presentationsdirect.com/fellowes-p-70cm-cross-cut-paper-shredder.html, 15.03.2014

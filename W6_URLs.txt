@@ -7,6 +7,7 @@
 [DDMS] http://smartapps-android.blogspot.com/2012/02/dalvik-debug-monitor-server-ddms.html 
 [AUSTRALIAN] http://www.8051projects.net/files/public/1236046309_9698_FT19075_forensic_analysis_of_mobile_phones.pdf 
 [EXTRACTING DATA FROM DAMAGED DEVICES] http://articles.forensicfocus.com/2013/08/21/extracting-data-from-damaged-mobile-devices/ 
+[APPLE_WATCH_ADAPTERS] https://blog.elcomsoft.com/2021/11/apple-watch-forensics-more-on-adapters/
 
 [1] http://www.bennettoffice.com/wp-content/uploads/2012/01/Secure-Mobile.jpg, 16.03.2014
 

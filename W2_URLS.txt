@@ -5,6 +5,7 @@
 [BASE64] http://en.wikipedia.org/wiki/Base64 
 [UTF-8] http://en.wikipedia.org/wiki/UTF-8 
 [iphonewiki] https://www.theiphonewiki.com/wiki/Usbmux
+[AFC] https://www.theiphonewiki.com/wiki/AFC
 [howtogeek_ptp_mtp] https://www.howtogeek.com/192732/android-usb-connections-explained-mtp-ptp-and-usb-mass-storage/
 [GSM] http://holman.id.au/apps/ipsms/default_alphabet.html 
 [SMS] http://mobileforensics.files.wordpress.com/2007/06/understanding_sms.pdf 
